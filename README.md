@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MOTHER5CHILD
+- 👋 Hi, I’m @MOTHER5CHILD, you can call me Ari 
 - 👀 I’m interested in software engineering :)
 - 🌱 I’m currently learning HTML, CSS, and JAVA
 - 💞️ I’m looking to collaborate on ...
